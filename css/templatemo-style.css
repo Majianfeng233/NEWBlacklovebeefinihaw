@@ -247,11 +247,11 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .navbar-nav.navbar-right .section-btn:hover {
     background: #292929;
-    color: #ffffff;
+    color: #DB4035;
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn:focus {
-    color: #ffffff;
+    color: #14AAF5;
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn a {
@@ -259,7 +259,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .nav .section-btn a:hover {
-    color: #ffffff;
+    color: #6ACCBC;
   }
 
   .custom-navbar .nav li a {
@@ -273,7 +273,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #FF0000;
+    color: #96C3EB;
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -283,7 +283,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #ce3232;
+    color: #FAD000;
   }
 
   .custom-navbar .navbar-toggle {
@@ -296,7 +296,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-toggle .icon-bar {
-    background: #252525;
+    background: #EB96EB;
     border-color: transparent;
   }
 
